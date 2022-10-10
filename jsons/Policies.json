@@ -19,24 +19,45 @@
                 "uniques": [
                     "[+15]% Production when constructing [All] wonders [in all cities]",
                     "[+1 Happiness] per [10] population [in all cities]"
+                                "Only available <before adopting [City States]>",
+
                 ],
                 "row": 1,
                 "column": 1
+            },
+            {
+                "name": "Khanate",
+                "uniques": [
+                    "[+15]% Production when constructing [All] wonders [in all cities]",
+                    "[+1 Happiness] per [10] population [in all cities]"
+                                "Only available <before adopting [Bueracratic Monarchy]>",
+            "Only available <before adopting [Classical Republic]>",
+            "Only available <starting from the [Classical era]>",
+
+                ],
+                "row": 1,
+                "column": 3
             },
                         {
                 "name": "Elected Monarchy",
                 "uniques": [
                     "[+10]% growth [in capital]",
                     "[+2 Food] [in capital]"
+"Only available <before adopting [Fuedal Monarchy]>",
+            "Only available <before adopting [Merchant Republic]>",
+                    "Only available <starting from the [Medieval era]>"
                 ],
                 "row": 1,
                 "column": 5
             },
                                                {
-                "name": "Constituional Monarchy",
+                "name": "Constitutional Monarchy",
                 "uniques": [
                     "[+10]% growth [in capital]",
                     "[+2 Food] [in capital]"
+                    "Only available <before adopting [Representative Democracy]>",
+            "Only available <before adopting [Colonial Empire]>",
+                    "Only available <starting from the [Renaissance era]>"
                 ],
                 "row": 1,
                 "column": 7
@@ -47,6 +68,9 @@
                 "uniques": [
                     "[+10]% growth [in capital]",
                     "[+2 Food] [in capital]"
+                    "Only available <before adopting [Communistic Ideology]>",
+            "Only available <before adopting [Capatalistic Ideology]>",
+                    "Only available <starting from the [Industrial era]>"
                 ],
                 "row": 1,
                 "column": 9
@@ -56,15 +80,20 @@
                 "uniques": [
                     "[+10]% growth [in capital]",
                     "[+2 Food] [in capital]"
+            "Only available <before adopting [Welfare State]>",
+                    "Only available <starting from the [Modern era]>"
                 ],
                 "row": 1,
                 "column": 11
             },
             {
-                "name": "Mandate of Heavan",
+                "name": "Bueracratic Monarchy",
                 "uniques": [
                     "[+10]% growth [in capital]",
                     "[+2 Food] [in capital]"
+                                                    "Only available <before adopting [Khanate]>",
+            "Only available <before adopting [Classical Republic]>",
+                    "Only available <starting from the [Classical era]>"
                 ],
                 "row": 2,
                 "column": 3
@@ -74,6 +103,10 @@
                 "uniques": [
                     "[+10]% growth [in capital]",
                     "[+2 Food] [in capital]"
+                    
+"Only available <before adopting [Elected Monarchy]>",
+            "Only available <before adopting [Merchant Republic]>",
+                    "Only available <starting from the [Medieval era]>"
                 ],
                 "row": 2,
                 "column": 5
@@ -83,6 +116,9 @@
                 "uniques": [
                     "[+10]% growth [in capital]",
                     "[+2 Food] [in capital]"
+                    "Only available <before adopting [Representative Democracy]>",
+            "Only available <before adopting [constitutional Monarchy]>",
+                    "Only available <starting from the [Renaissance era]>"
                 ],
                 "row": 2,
                 "column": 7
@@ -92,6 +128,9 @@
                 "uniques": [
                     "[+10]% growth [in capital]",
                     "[+2 Food] [in capital]"
+                    "Only available <before adopting [Fascistic Ideology]>",
+            "Only available <before adopting [Capatalistic Ideology]>",
+                    "Only available <starting from the [Industrial era]>"
                 ],
                 "row": 2,
                 "column": 9
@@ -100,6 +139,8 @@
                 "name": "City States",
                 "uniques": [
                     "Provides the cheapest [Culture] building in your first [4] cities for free"
+                                "Only available <before adopting [Godkings]>",
+
                 ],
                 "row": 3,
                 "column": 1
@@ -109,6 +150,9 @@
                 "uniques": [
                     "[+10]% growth [in capital]",
                     "[+2 Food] [in capital]"
+                                                                        "Only available <before adopting [Khanate]>",
+            "Only available <before adopting [Bueracratic Monarchy]>",
+                    "Only available <starting from the [Classical era]>"
                 ],
                 "row": 3,
                 "column": 3
@@ -118,6 +162,8 @@
                 "uniques": [
                     "[+10]% growth [in capital]",
                     "[+2 Food] [in capital]"
+"Only available <before adopting [Elected Monarchy]>",
+            "Only available <before adopting [Fuedal Monarchy]>", "Only available <starting from the [Medieval era]>"
                 ],
                 "row": 3,
                 "column": 5
@@ -127,6 +173,9 @@
                 "uniques": [
                     "[+10]% growth [in capital]",
                     "[+2 Food] [in capital]"
+                    "Only available <before adopting [Colonial Empire]>",
+            "Only available <before adopting [Constitutional Monarchy]>",
+                    "Only available <starting from the [Renaissance era]>"
                 ],
                 "row": 3,
                 "column": 7
@@ -136,6 +185,9 @@
                 "uniques": [
                     "[+10]% growth [in capital]",
                     "[+2 Food] [in capital]"
+                    "Only available <before adopting [Fascistic Ideology]>",
+            "Only available <before adopting [Communistic Ideology]>",
+                    "Only available <starting from the [Industrial era]>"
                 ],
                 "row": 3,
                 "column": 9
@@ -145,6 +197,8 @@
                 "uniques": [
                     "[+10]% growth [in capital]",
                     "[+2 Food] [in capital]"
+            "Only available <before adopting [One Party State
+                    "Only available <starting from the [Modern era]>"
                 ],
                 "row": 3,
                 "column": 11
