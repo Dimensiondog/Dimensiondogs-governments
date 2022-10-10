@@ -38,7 +38,7 @@
                     "[+50]% Strength for cities <with a garrison> <when attacking>"
                 ],
                 "row": 1,
-                "column": 2
+                "column": 3
             },
             {
                 "name": "Mandate of Heavan",
@@ -47,7 +47,7 @@
                     "[+2 Food] [in capital]"
                 ],
                 "row": 2,
-                "column": 2
+                "column": 3
             },
             {
                 "name": "Classical Republic",
@@ -56,7 +56,7 @@
                     "[+2 Food] [in capital]"
                 ],
                 "row": 3,
-                "column": 2
+                "column": 3
             },
                         {
                 "name": "Elected Monarchy",
@@ -65,7 +65,7 @@
                     "[+2 Food] [in capital]"
                 ],
                 "row": 1,
-                "column": 3
+                "column": 5
             },
                         {
                 "name": "Fuedal Monarchy",
@@ -74,7 +74,7 @@
                     "[+2 Food] [in capital]"
                 ],
                 "row": 2,
-                "column": 3
+                "column": 5
             },
             {
                 "name": "Merchant Republic",
@@ -83,7 +83,7 @@
                     "[+2 Food] [in capital]"
                 ],
                 "row": 3,
-                "column": 3
+                "column": 5
             },
                                                {
                 "name": "Constituional Monarchy",
@@ -92,7 +92,7 @@
                     "[+2 Food] [in capital]"
                 ],
                 "row": 1,
-                "column": 4
+                "column": 7
             },
                                    {
                 "name": "Colonial empire",
@@ -101,7 +101,7 @@
                     "[+2 Food] [in capital]"
                 ],
                 "row": 2,
-                "column": 4
+                "column": 7
             },
                                     {
                 "name": "Representative Democracy",
@@ -110,7 +110,7 @@
                     "[+2 Food] [in capital]"
                 ],
                 "row": 3,
-                "column": 4
+                "column": 7
             },
                                     {
                 "name": "Fascistic Ideology",
@@ -119,7 +119,7 @@
                     "[+2 Food] [in capital]"
                 ],
                 "row": 1,
-                "column": 5
+                "column": 9
             },
                                     {
                 "name": "Communistic Ideology",
@@ -128,7 +128,7 @@
                     "[+2 Food] [in capital]"
                 ],
                 "row": 2,
-                "column": 5
+                "column": 9
             },
                                     {
                 "name": "Capitalistic Ideology",
@@ -137,7 +137,25 @@
                     "[+2 Food] [in capital]"
                 ],
                 "row": 3,
-                "column": 5
+                "column": 9
+            },
+                                    {
+                "name": "One Party State",
+                "uniques": [
+                    "[+10]% growth [in capital]",
+                    "[+2 Food] [in capital]"
+                ],
+                "row": 1,
+                "column": 11
+            },
+                        {
+                "name": "Welfare state",
+                "uniques": [
+                    "[+10]% growth [in capital]",
+                    "[+2 Food] [in capital]"
+                ],
+                "row": 3,
+                "column": 11
             },
             {
                 "name": "Government Tree Complete",
