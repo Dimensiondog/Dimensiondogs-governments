@@ -139,24 +139,6 @@
                 "row": 3,
                 "column": 5
             },
-                        {
-                "name": "One Party State",
-                "uniques": [
-                    "[+10]% growth [in capital]",
-                    "[+2 Food] [in capital]"
-                ],
-                "row": 1,
-                "column": 6
-            },
-                        {
-                "name": "Welfare state",
-                "uniques": [
-                    "[+10]% growth [in capital]",
-                    "[+2 Food] [in capital]"
-                ],
-                "row": 3,
-                "column": 6
-            },
             {
                 "name": "Government Tree Complete",
                 "uniques": [
