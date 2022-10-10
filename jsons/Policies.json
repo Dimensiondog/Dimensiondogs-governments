@@ -21,15 +21,15 @@
                     "[+1 Happiness] per [10] population [in all cities]"
                 ],
                 "row": 1,
-                "column": 2
+                "column": 1
             },
             {
                 "name": "City States",
                 "uniques": [
                     "Provides the cheapest [Culture] building in your first [4] cities for free"
                 ],
-                "row": 1,
-                "column": 4
+                "row": 3,
+                "column": 1
             },
             {
                 "name": "Khanate",
@@ -37,8 +37,8 @@
                     "Units in cities cost no Maintenance",
                     "[+50]% Strength for cities <with a garrison> <when attacking>"
                 ],
-                "row": 2,
-                "column": 1
+                "row": 1,
+                "column": 2
             },
             {
                 "name": "Mandate of Heavan",
@@ -47,7 +47,7 @@
                     "[+2 Food] [in capital]"
                 ],
                 "row": 2,
-                "column": 5
+                "column": 2
             },
             {
                 "name": "Classical Republic",
@@ -55,8 +55,8 @@
                     "[+10]% growth [in capital]",
                     "[+2 Food] [in capital]"
                 ],
-                "row": 2,
-                "column": 5
+                "row": 3,
+                "column": 2
             },
                         {
                 "name": "Elected Monarchy",
@@ -64,8 +64,8 @@
                     "[+10]% growth [in capital]",
                     "[+2 Food] [in capital]"
                 ],
-                "row": 3,
-                "column": 1
+                "row": 1,
+                "column": 3
             },
                         {
                 "name": "Fuedal Monarchy",
@@ -73,7 +73,7 @@
                     "[+10]% growth [in capital]",
                     "[+2 Food] [in capital]"
                 ],
-                "row": 3,
+                "row": 2,
                 "column": 3
             },
             {
@@ -83,7 +83,7 @@
                     "[+2 Food] [in capital]"
                 ],
                 "row": 3,
-                "column": 5
+                "column": 3
             },
                                                {
                 "name": "Constituional Monarchy",
@@ -91,8 +91,8 @@
                     "[+10]% growth [in capital]",
                     "[+2 Food] [in capital]"
                 ],
-                "row": 4,
-                "column": 1
+                "row": 1,
+                "column": 4
             },
                                    {
                 "name": "Colonial empire",
@@ -100,8 +100,8 @@
                     "[+10]% growth [in capital]",
                     "[+2 Food] [in capital]"
                 ],
-                "row": 4,
-                "column": 3
+                "row": 2,
+                "column": 4
             },
                                     {
                 "name": "Representative Democracy",
@@ -109,8 +109,8 @@
                     "[+10]% growth [in capital]",
                     "[+2 Food] [in capital]"
                 ],
-                "row": 4,
-                "column": 5
+                "row": 3,
+                "column": 4
             },
                                     {
                 "name": "Fascistic Ideology",
@@ -118,8 +118,8 @@
                     "[+10]% growth [in capital]",
                     "[+2 Food] [in capital]"
                 ],
-                "row": 5,
-                "column": 1
+                "row": 1,
+                "column": 5
             },
                                     {
                 "name": "Communistic Ideology",
@@ -127,8 +127,8 @@
                     "[+10]% growth [in capital]",
                     "[+2 Food] [in capital]"
                 ],
-                "row": 5,
-                "column": 3
+                "row": 2,
+                "column": 5
             },
                                     {
                 "name": "Capitalistic Ideology",
@@ -136,7 +136,7 @@
                     "[+10]% growth [in capital]",
                     "[+2 Food] [in capital]"
                 ],
-                "row": 5,
+                "row": 3,
                 "column": 5
             },
                         {
@@ -145,8 +145,8 @@
                     "[+10]% growth [in capital]",
                     "[+2 Food] [in capital]"
                 ],
-                "row": 6,
-                "column": 2
+                "row": 1,
+                "column": 6
             },
                         {
                 "name": "Welfare state",
@@ -154,8 +154,8 @@
                     "[+10]% growth [in capital]",
                     "[+2 Food] [in capital]"
                 ],
-                "row": 6,
-                "column": 4
+                "row": 3,
+                "column": 6
             },
             {
                 "name": "Government Tree Complete",
