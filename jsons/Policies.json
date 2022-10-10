@@ -23,41 +23,6 @@
                 "row": 1,
                 "column": 1
             },
-            {
-                "name": "City States",
-                "uniques": [
-                    "Provides the cheapest [Culture] building in your first [4] cities for free"
-                ],
-                "row": 3,
-                "column": 1
-            },
-            {
-                "name": "Khanate",
-                "uniques": [
-                    "Units in cities cost no Maintenance",
-                    "[+50]% Strength for cities <with a garrison> <when attacking>"
-                ],
-                "row": 1,
-                "column": 3
-            },
-            {
-                "name": "Mandate of Heavan",
-                "uniques": [
-                    "[+10]% growth [in capital]",
-                    "[+2 Food] [in capital]"
-                ],
-                "row": 2,
-                "column": 3
-            },
-            {
-                "name": "Classical Republic",
-                "uniques": [
-                    "[+10]% growth [in capital]",
-                    "[+2 Food] [in capital]"
-                ],
-                "row": 3,
-                "column": 3
-            },
                         {
                 "name": "Elected Monarchy",
                 "uniques": [
@@ -65,24 +30,6 @@
                     "[+2 Food] [in capital]"
                 ],
                 "row": 1,
-                "column": 5
-            },
-                        {
-                "name": "Fuedal Monarchy",
-                "uniques": [
-                    "[+10]% growth [in capital]",
-                    "[+2 Food] [in capital]"
-                ],
-                "row": 2,
-                "column": 5
-            },
-            {
-                "name": "Merchant Republic",
-                "uniques": [
-                    "[+10]% growth [in capital]",
-                    "[+2 Food] [in capital]"
-                ],
-                "row": 3,
                 "column": 5
             },
                                                {
@@ -94,7 +41,44 @@
                 "row": 1,
                 "column": 7
             },
-                                   {
+                
+                                                {
+                "name": "Fascistic Ideology",
+                "uniques": [
+                    "[+10]% growth [in capital]",
+                    "[+2 Food] [in capital]"
+                ],
+                "row": 1,
+                "column": 9
+            },
+                                    {
+                "name": "One Party State",
+                "uniques": [
+                    "[+10]% growth [in capital]",
+                    "[+2 Food] [in capital]"
+                ],
+                "row": 1,
+                "column": 11
+            },
+            {
+                "name": "Mandate of Heavan",
+                "uniques": [
+                    "[+10]% growth [in capital]",
+                    "[+2 Food] [in capital]"
+                ],
+                "row": 2,
+                "column": 3
+            },
+                        {
+                "name": "Fuedal Monarchy",
+                "uniques": [
+                    "[+10]% growth [in capital]",
+                    "[+2 Food] [in capital]"
+                ],
+                "row": 2,
+                "column": 5
+            },
+            {
                 "name": "Colonial empire",
                 "uniques": [
                     "[+10]% growth [in capital]",
@@ -102,6 +86,41 @@
                 ],
                 "row": 2,
                 "column": 7
+            },
+                                    {
+                "name": "Communistic Ideology",
+                "uniques": [
+                    "[+10]% growth [in capital]",
+                    "[+2 Food] [in capital]"
+                ],
+                "row": 2,
+                "column": 9
+            },
+            {
+                "name": "City States",
+                "uniques": [
+                    "Provides the cheapest [Culture] building in your first [4] cities for free"
+                ],
+                "row": 3,
+                "column": 1
+            },
+            {
+                "name": "Classical Republic",
+                "uniques": [
+                    "[+10]% growth [in capital]",
+                    "[+2 Food] [in capital]"
+                ],
+                "row": 3,
+                "column": 3
+            },
+            {
+                "name": "Merchant Republic",
+                "uniques": [
+                    "[+10]% growth [in capital]",
+                    "[+2 Food] [in capital]"
+                ],
+                "row": 3,
+                "column": 5
             },
                                     {
                 "name": "Representative Democracy",
@@ -113,24 +132,6 @@
                 "column": 7
             },
                                     {
-                "name": "Fascistic Ideology",
-                "uniques": [
-                    "[+10]% growth [in capital]",
-                    "[+2 Food] [in capital]"
-                ],
-                "row": 1,
-                "column": 9
-            },
-                                    {
-                "name": "Communistic Ideology",
-                "uniques": [
-                    "[+10]% growth [in capital]",
-                    "[+2 Food] [in capital]"
-                ],
-                "row": 2,
-                "column": 9
-            },
-                                    {
                 "name": "Capitalistic Ideology",
                 "uniques": [
                     "[+10]% growth [in capital]",
@@ -138,15 +139,6 @@
                 ],
                 "row": 3,
                 "column": 9
-            },
-                                    {
-                "name": "One Party State",
-                "uniques": [
-                    "[+10]% growth [in capital]",
-                    "[+2 Food] [in capital]"
-                ],
-                "row": 1,
-                "column": 11
             },
                         {
                 "name": "Welfare state",
