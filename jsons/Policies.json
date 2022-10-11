@@ -17,8 +17,8 @@
             {
                 "name": "Godkings",
                 "uniques": [
-                    "[+15]% Production when constructing [All] wonders [in all cities]",
-                    "[+1 Happiness] per [10] population [in all cities]"
+                    "[+20]% Production when constructing [All] wonders [in capital]",
+                    "[+1 Faith] per [1] population [in capital]"
                                 "Only available <before adopting [City States]>",
 
                 ],
@@ -28,8 +28,8 @@
             {
                 "name": "Khanate",
                 "uniques": [
-                    "[+15]% Production when constructing [All] wonders [in all cities]",
-                    "[+1 Happiness] per [10] population [in all cities]"
+                    "Free [Khan] appears",
+                    "No movement cost to pillage<for [Mounted] units"
                                 "Only available <before adopting [Bueracratic Monarchy]>",
             "Only available <before adopting [Classical Republic]>",
             "Only available <starting from the [Classical era]>",
@@ -41,8 +41,8 @@
                         {
                 "name": "Elected Monarchy",
                 "uniques": [
-                    "[+10]% growth [in capital]",
-                    "[+2 Food] [in capital]"
+                    "Can spend Gold to annex or pupper a City-State that has been your ally for [20] turns",
+                    "[20]% Strength <vs [City-State] units"
 "Only available <before adopting [Fuedal Monarchy]>",
             "Only available <before adopting [Merchant Republic]>",
                     "Only available <starting from the [Medieval era]>"
@@ -66,8 +66,8 @@
                                                 {
                 "name": "Fascistic Ideology",
                 "uniques": [
-                    "[+10]% growth [in capital]",
-                    "[+2 Food] [in capital]"
+                    "[+20]% Strength for cities",
+                    "[+20]% Strength <for [Wounded] units"
                     "Only available <before adopting [Communistic Ideology]>",
             "Only available <before adopting [Capatalistic Ideology]>",
                     "Only available <starting from the [Industrial era]>"
@@ -89,7 +89,7 @@
             {
                 "name": "Bueracratic Monarchy",
                 "uniques": [
-                    "[+10]% growth [in capital]",
+                    "[+20]% growth [in capital]",
                     "[+2 Food] [in capital]"
                                                     "Only available <before adopting [Khanate]>",
             "Only available <before adopting [Classical Republic]>",
@@ -101,8 +101,8 @@
                         {
                 "name": "Fuedal Monarchy",
                 "uniques": [
-                    "[+10]% growth [in capital]",
-                    "[+2 Food] [in capital]"
+                    "[+1 Food] from [Farm] tiles",
+                    "[+1 Food, +1 Production, +1 Gold, +1 Culture, +1 Faith, +1 Science, +1 Happiness] <in cities with a [Castle}"
                     
 "Only available <before adopting [Elected Monarchy]>",
             "Only available <before adopting [Merchant Republic]>",
@@ -114,8 +114,9 @@
             {
                 "name": "Colonial empire",
                 "uniques": [
-                    "[+10]% growth [in capital]",
-                    "[+2 Food] [in capital]"
+                    "[+1 Gold] from [All] tiles <on foreign continents>",
+                    "[+2] Movement <for [embarked] units>"
+"[+2] Movement <for [water units] units>"
                     "Only available <before adopting [Representative Democracy]>",
             "Only available <before adopting [constitutional Monarchy]>",
                     "Only available <starting from the [Renaissance era]>"
@@ -126,8 +127,7 @@
                                     {
                 "name": "Communistic Ideology",
                 "uniques": [
-                    "[+10]% growth [in capital]",
-                    "[+2 Food] [in capital]"
+                    "[+1 Production, -2 Gold] from [All] tiles",
                     "Only available <before adopting [Fascistic Ideology]>",
             "Only available <before adopting [Capatalistic Ideology]>",
                     "Only available <starting from the [Industrial era]>"
@@ -138,7 +138,7 @@
             {
                 "name": "City States",
                 "uniques": [
-                    "Provides the cheapest [Culture] building in your first [4] cities for free"
+                    "[+4 Gold, +2 Happiness, +1 Culture] from each Trade Route"
                                 "Only available <before adopting [Godkings]>",
 
                 ],
@@ -148,8 +148,7 @@
             {
                 "name": "Classical Republic",
                 "uniques": [
-                    "[+10]% growth [in capital]",
-                    "[+2 Food] [in capital]"
+                    "[+25]% Production  when constructing [All] units [in all cities]",
                                                                         "Only available <before adopting [Khanate]>",
             "Only available <before adopting [Bueracratic Monarchy]>",
                     "Only available <starting from the [Classical era]>"
@@ -183,8 +182,7 @@
                                     {
                 "name": "Capitalistic Ideology",
                 "uniques": [
-                    "[+10]% growth [in capital]",
-                    "[+2 Food] [in capital]"
+                    "[+20]% [Gold, Culture]",
                     "Only available <before adopting [Fascistic Ideology]>",
             "Only available <before adopting [Communistic Ideology]>",
                     "Only available <starting from the [Industrial era]>"
@@ -195,8 +193,7 @@
                         {
                 "name": "Welfare state",
                 "uniques": [
-                    "[+10]% growth [in capital]",
-                    "[+2 Food] [in capital]"
+                    "[+33]% [Happiness, Science] [in all cities with a world wonder]",
             "Only available <before adopting [One Party State
                     "Only available <starting from the [Modern era]>"
                 ],
