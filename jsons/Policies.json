@@ -69,7 +69,7 @@
                     "[+20]% Strength for cities",
                     "[+20]% Strength <for [Wounded] units"
                     "Only available <before adopting [Communistic Ideology]>",
-            "Only available <before adopting [Capatalistic Ideology]>",
+            "Only available <before adopting [Capitalistic Ideology]>",
                     "Only available <starting from the [Industrial era]>"
                 ],
                 "row": 1,
@@ -101,7 +101,7 @@
                         {
                 "name": "Fuedal Monarchy",
                 "uniques": [
-                    "[+1 Food] from [Farm] tiles",
+                    "[+1 Food] from [Farm] tiles [in all cities]",
                     "[+1 Food, +1 Production, +1 Gold, +1 Culture, +1 Faith, +1 Science, +1 Happiness] <in cities with a [Castle}"
                     
 "Only available <before adopting [Elected Monarchy]>",
@@ -112,13 +112,13 @@
                 "column": 5
             },
             {
-                "name": "Colonial empire",
+                "name": "Colonial Empire",
                 "uniques": [
-                    "[+1 Gold] from [All] tiles <on foreign continents>",
+                    "[+1 Gold] from [All] tiles [in all cities] <on foreign continents>",
                     "[+2] Movement <for [embarked] units>"
 "[+2] Movement <for [water units] units>"
                     "Only available <before adopting [Representative Democracy]>",
-            "Only available <before adopting [constitutional Monarchy]>",
+            "Only available <before adopting [Constitutional Monarchy]>",
                     "Only available <starting from the [Renaissance era]>"
                 ],
                 "row": 2,
@@ -127,9 +127,9 @@
                                     {
                 "name": "Communistic Ideology",
                 "uniques": [
-                    "[+1 Production, -2 Gold] from [All] tiles",
+                    "[+1 Production, -2 Gold] from [All] tiles [in all cities]",
                     "Only available <before adopting [Fascistic Ideology]>",
-            "Only available <before adopting [Capatalistic Ideology]>",
+            "Only available <before adopting [Capitalistic Ideology]>",
                     "Only available <starting from the [Industrial era]>"
                 ],
                 "row": 2,
@@ -191,7 +191,7 @@
                 "column": 9
             },
                         {
-                "name": "Welfare state",
+                "name": "Welfare State",
                 "uniques": [
                     "[+33]% [Happiness, Science] [in all cities with a world wonder]",
             "Only available <before adopting [One Party State]",
