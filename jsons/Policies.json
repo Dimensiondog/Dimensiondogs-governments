@@ -169,8 +169,9 @@
                                     {
                 "name": "Representative Democracy",
                 "uniques": [
-                    "[+10]% growth [in capital]",
-                    "[+2 Food] [in capital]"
+                    "[+1 Happiness, +2 Culture] per [5] population [in all cities]",
+                    "Empire enters a golden age"
+                    "[1] population [in all cities]"
                     "Only available <before adopting [Colonial Empire]>",
             "Only available <before adopting [Constitutional Monarchy]>",
                     "Only available <starting from the [Renaissance era]>"
